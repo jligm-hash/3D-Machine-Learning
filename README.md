@@ -11,6 +11,10 @@ I'll use the following icons to differentiate 3D representations:
 
 To find related papers and their relationships, check out [Connected Papers](https://www.connectedpapers.com/), which provides a neat way to visualize the academic field in a graph representation. 
 
+## Restrospective Research on Computational 3D Analysis
+
+The sparse data of recurrent data and the spatial evolution for the computational biology will be benefit for the 3d object learning for the spatial learning and the spatial-temporal learning.
+
 ## Get Involved
 To contribute to this Repo, you may add content through pull requests or open an issue to let me know. 
 
